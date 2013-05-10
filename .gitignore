@@ -58,6 +58,9 @@ Assessment/unitysrc.userprefs
 Assessment/Assembly-Boo-vs.booproj
 Assessment/Assembly-Boo.booproj
 
+Library/
+Temp/
+
 .DS_Store
 
 *.userprefs
